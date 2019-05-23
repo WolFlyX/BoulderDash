@@ -1,2 +1,2 @@
-# BoulderDash_
+# BoulderDash
 Projet java 
